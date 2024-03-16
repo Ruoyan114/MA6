@@ -1,0 +1,13 @@
+.Big_box{
+  width: 200px;
+  height: 200px;
+  margin: 50px auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  box-sizing: border-box;
+}
+h1{
+  text-align: center;
+}
